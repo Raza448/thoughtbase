@@ -1,0 +1,91 @@
+[26-Jan-2015 07:30:36 America/Denver] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in /home4/thoughw3/public_html/survey/application/controllers/vendors.php on line 453
+[14-Feb-2015 04:31:04 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/thoughw3/public_html/survey/application/views/admin/login.php on line 18
+[14-Feb-2015 04:31:07 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/thoughw3/public_html/survey/application/views/admin/login.php on line 18
+[14-Feb-2015 04:31:23 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/thoughw3/public_html/survey/application/views/admin/login.php on line 18
+[14-Feb-2015 04:31:25 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/thoughw3/public_html/survey/application/views/admin/login.php on line 18
+[14-Feb-2015 04:31:27 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/thoughw3/public_html/survey/application/views/admin/login.php on line 18
+[14-Feb-2015 11:14:38 America/Denver] PHP Fatal error:  Call to undefined method Client::getAllUsers() in /home4/thoughw3/public_html/survey/application/controllers/admin/main.php on line 28
+[14-Feb-2015 11:14:39 America/Denver] PHP Fatal error:  Call to undefined method Client::getAllUsers() in /home4/thoughw3/public_html/survey/application/controllers/admin/main.php on line 28
+[14-Feb-2015 11:14:44 America/Denver] PHP Fatal error:  Call to undefined method Client::getAllUsers() in /home4/thoughw3/public_html/survey/application/controllers/admin/main.php on line 28
+[14-Feb-2015 11:14:51 America/Denver] PHP Fatal error:  Call to undefined method Client::getAllUsers() in /home4/thoughw3/public_html/survey/application/controllers/admin/main.php on line 28
+[19-Feb-2015 00:54:07 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home4/thoughw3/public_html/tb/application/views/admin/login.php on line 20
+[19-Feb-2015 00:54:09 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home4/thoughw3/public_html/tb/application/views/admin/login.php on line 20
+[19-Feb-2015 00:54:13 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home4/thoughw3/public_html/tb/application/views/admin/login.php on line 20
+[19-Feb-2015 00:54:34 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home4/thoughw3/public_html/tb/application/views/admin/login.php on line 21
+[22-Feb-2015 23:37:23 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[22-Feb-2015 23:37:25 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[22-Feb-2015 23:37:39 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[22-Feb-2015 23:37:42 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[22-Feb-2015 23:38:39 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[22-Feb-2015 23:38:51 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[22-Feb-2015 23:40:33 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[22-Feb-2015 23:40:35 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[22-Feb-2015 23:42:54 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[22-Feb-2015 23:42:56 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[22-Feb-2015 23:44:17 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[22-Feb-2015 23:46:22 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[23-Feb-2015 00:26:55 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[23-Feb-2015 00:26:57 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/thoughw3/public_html/tb/application/views/client_only/my_posts.php on line 53
+[23-Feb-2015 06:42:37 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/views/client_login.php on line 79
+[23-Feb-2015 06:42:42 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/views/client_login.php on line 79
+[23-Feb-2015 06:43:01 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/views/client_login.php on line 79
+[23-Feb-2015 06:45:57 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/views/client_login.php on line 79
+[23-Feb-2015 06:46:03 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/views/client_login.php on line 79
+[23-Feb-2015 06:46:28 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/views/client_login.php on line 79
+[25-Feb-2015 02:08:34 America/Denver] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home4/thoughw3/public_html/tb/application/controllers/vendors.php on line 975
+[25-Feb-2015 02:08:40 America/Denver] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home4/thoughw3/public_html/tb/application/controllers/vendors.php on line 975
+[25-Feb-2015 02:11:13 America/Denver] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home4/thoughw3/public_html/tb/application/controllers/vendors.php on line 975
+[25-Feb-2015 02:13:14 America/Denver] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home4/thoughw3/public_html/tb/application/controllers/vendors.php on line 975
+[26-Feb-2015 04:23:43 America/Denver] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home4/thoughw3/public_html/tb/application/views/components/survey1.php on line 150
+[26-Feb-2015 04:23:46 America/Denver] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home4/thoughw3/public_html/tb/application/views/components/survey1.php on line 150
+[10-Mar-2015 06:41:01 America/Denver] PHP Fatal error:  Call to undefined function headers() in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1394
+[11-Mar-2015 02:04:14 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:04:22 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:04:27 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:05:57 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:06:06 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:06:12 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:06:21 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:06:23 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:06:25 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:06:26 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:06:27 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:06:28 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:06:29 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:06:30 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 02:06:42 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1391
+[11-Mar-2015 07:39:10 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1350
+[13-Mar-2015 05:04:55 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1329
+[13-Mar-2015 06:28:45 America/Denver] PHP Fatal error:  Call to a member function insertClientTable() on a non-object in /home4/thoughw3/public_html/tb/application/controllers/vendors.php on line 843
+[16-Mar-2015 07:51:06 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 726
+[20-Mar-2015 00:55:52 America/Denver] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home4/thoughw3/public_html/tb/application/controllers/vendors.php on line 1061
+[20-Mar-2015 00:56:01 America/Denver] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home4/thoughw3/public_html/tb/application/controllers/vendors.php on line 1061
+[20-Mar-2015 00:56:31 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/controllers/vendors.php on line 820
+[20-Mar-2015 00:56:33 America/Denver] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home4/thoughw3/public_html/tb/application/controllers/vendors.php on line 1061
+[20-Mar-2015 00:56:35 America/Denver] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home4/thoughw3/public_html/tb/application/controllers/vendors.php on line 1061
+[20-Mar-2015 03:46:25 America/Denver] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home4/thoughw3/public_html/tb/application/controllers/vendors.php on line 1060
+[20-Mar-2015 05:56:10 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home4/thoughw3/public_html/tb/application/controllers/clients.php on line 104
+[20-Mar-2015 05:56:13 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home4/thoughw3/public_html/tb/application/controllers/clients.php on line 104
+[20-Mar-2015 06:06:25 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home4/thoughw3/public_html/tb/application/controllers/clients.php on line 123
+[21-Mar-2015 06:06:27 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home4/thoughw3/public_html/tb/application/views/client_profile.php on line 224
+[25-Mar-2015 01:35:17 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home4/thoughw3/public_html/tb/application/controllers/vendors.php on line 235
+[27-Mar-2015 06:46:51 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/views/client_profile.php on line 222
+[28-Mar-2015 02:23:26 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 219
+[28-Mar-2015 02:23:28 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1525
+[31-Mar-2015 04:32:21 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1623
+[31-Mar-2015 04:32:22 America/Denver] PHP Fatal error:  Call to a member function getAllSiteSettings() on a non-object in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 43
+[31-Mar-2015 04:32:24 America/Denver] PHP Fatal error:  Call to a member function getAllSiteSettings() on a non-object in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 43
+[31-Mar-2015 04:32:26 America/Denver] PHP Fatal error:  Call to a member function getAllSiteSettings() on a non-object in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 43
+[01-Apr-2015 07:54:05 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1256
+[13-Apr-2015 01:18:35 America/Denver] PHP Parse error:  syntax error, unexpected ''per_6'] = ($totalz_6/$total)*' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1686
+[16-May-2015 02:16:26 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1470
+[16-May-2015 06:00:00 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/thoughw3/public_html/tb/application/controllers/user.php on line 57
+[16-May-2015 06:07:18 America/Denver] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home4/thoughw3/public_html/tb/application/controllers/user.php on line 110
+[18-May-2015 02:14:33 America/Denver] PHP Fatal error:  Call to undefined function create_captcha() in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 756
+[18-May-2015 04:53:32 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 762
+[18-May-2015 06:00:52 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1275
+[18-May-2015 06:00:57 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1275
+[18-May-2015 06:02:13 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1275
+[18-May-2015 06:02:35 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1275
+[04-Jun-2015 03:27:38 America/Denver] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home4/thoughw3/public_html/tb/application/controllers/main.php on line 1493
+[06-Jun-2015 05:54:02 America/Denver] PHP Parse error:  syntax error, unexpected ''X-PAYPAL-APPLICATION-ID: '' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home4/thoughw3/public_html/tb/application/controllers/user.php on line 229

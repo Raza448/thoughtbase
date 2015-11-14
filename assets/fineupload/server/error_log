@@ -1,0 +1,87 @@
+[15-Feb-2015 08:49:51 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/survey/assets/fineupload/server/handler.php on line 216
+[15-Feb-2015 08:52:49 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/survey/assets/fineupload/server/handler.php on line 216
+[15-Feb-2015 08:53:00 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/survey/assets/fineupload/server/handler.php on line 216
+[16-Feb-2015 11:28:56 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/survey/assets/fineupload/server/handler.php on line 216
+[16-Feb-2015 11:28:58 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/survey/assets/fineupload/server/handler.php on line 216
+[18-Feb-2015 20:21:00 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:21:31 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:21:35 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:21:36 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:21:37 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:21:38 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:21:38 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:21:39 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:21:40 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:23:34 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:23:51 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:28:00 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:28:29 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:28:40 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:31:32 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 20:35:22 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[18-Feb-2015 21:14:22 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[19-Feb-2015 09:21:04 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[19-Feb-2015 22:20:49 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[19-Feb-2015 22:20:52 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[20-Feb-2015 05:06:19 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[20-Feb-2015 05:06:20 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[20-Feb-2015 05:06:24 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[20-Feb-2015 07:07:32 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[20-Feb-2015 07:12:30 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[20-Feb-2015 07:12:53 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[20-Feb-2015 07:13:07 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[20-Feb-2015 07:15:29 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[20-Feb-2015 07:16:00 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'thoughw3_staging'@'localhost' (using password: YES) in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 184
+[20-Feb-2015 07:18:03 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[24-Feb-2015 03:44:34 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[25-Feb-2015 15:48:25 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[28-Feb-2015 01:29:09 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 02:34:16 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 02:34:52 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 02:37:03 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 02:39:49 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 05:08:15 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 05:08:27 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 05:08:46 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 05:08:55 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 05:17:16 America/Denver] PHP Notice:  Undefined index: qqfile in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 76
+[06-Apr-2015 05:17:22 America/Denver] PHP Notice:  Undefined index: qqfile in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 76
+[06-Apr-2015 05:17:45 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 05:17:48 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 05:18:07 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 05:18:22 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 05:24:10 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 05:25:31 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 05:25:33 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 05:35:17 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 06:35:25 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 06:36:31 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 06:36:46 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 06:37:35 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 06:49:18 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 06:49:36 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 06:49:56 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 06:50:40 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 07:12:37 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[06-Apr-2015 07:29:26 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[08-Apr-2015 01:47:32 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[08-Apr-2015 04:05:26 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[08-Apr-2015 04:05:29 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[08-Apr-2015 04:12:39 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[12-Apr-2015 08:42:44 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[12-Apr-2015 08:43:01 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[12-Apr-2015 09:39:13 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[12-Apr-2015 09:54:38 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[12-Apr-2015 09:56:53 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[12-Apr-2015 09:59:51 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[13-Apr-2015 06:09:54 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[13-Apr-2015 06:10:48 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[13-Apr-2015 06:54:28 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[13-Apr-2015 07:29:22 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[13-Apr-2015 07:29:44 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[13-Apr-2015 07:29:47 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[15-May-2015 13:59:54 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[16-May-2015 05:06:21 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[16-May-2015 05:07:57 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[16-May-2015 05:08:07 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216
+[16-May-2015 05:46:13 America/Denver] PHP Notice:  Undefined index: param1 in /home4/thoughw3/public_html/tb/assets/fineupload/server/handler.php on line 216

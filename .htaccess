@@ -1,0 +1,16 @@
+<IfModule mod_security.c>
+   # Turn off mod_security filtering.
+   SecFilterEngine Off
+   # The below probably isn't needed, but better safe than sorry.
+   SecFilterScanPOST Off
+</IfModule>
+<IfModule mod_rewrite.c>
+RewriteEngine On
+#RewriteCond %{HTTPS} !on
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+#RewriteCond %{HTTP_HOST} !^www\.
+#RewriteRule .* https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+<IfModule mod_php5.c>
+	php_value short_open_tag 1
+</IfModule>
